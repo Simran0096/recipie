@@ -1,7 +1,7 @@
 #ingredients
-- avocado £1
-- lime £0.25
-- salt
+- avocado £1/unit
+- lime £0.25/unit
+- salt £2/kg
 #instructions
 
 
