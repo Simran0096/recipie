@@ -1,3 +1,7 @@
-#instructions
+#ingredients
+- avocado
+- lemon
+- salt
+
 #instructions
 
